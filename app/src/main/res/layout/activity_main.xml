@@ -19,6 +19,13 @@
         android:id="@+id/surfaceView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
-"/>
+
+    <SeekBar
+        android:id="@+id/imgSeekBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="442dp"
+        tools:layout_editor_absoluteY="354dp" />
+    "/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
